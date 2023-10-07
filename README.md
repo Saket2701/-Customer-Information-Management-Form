@@ -9,16 +9,14 @@ Working with web APIs often necessitates the use of an SQL server. After impleme
 
 Let's start by creating a table. I'd like to clarify that I'll be employing a "Database First" approach. In case you're using .NET Framework Core, you would typically employ the "Code First" approach, but the overall procedure remains quite similar. 
 
-'''CREATE TABLE Customer
+CREATE TABLE Customer
 (
     Customer_ID INT PRIMARY KEY,
     Customer_Name NVARCHAR(255),
     Customer_Address NVARCHAR(255),
     Customer_Age INT,
     Customer_Contact_No_ NVARCHAR(20)
-);'''
-
-
+);
 
 
 

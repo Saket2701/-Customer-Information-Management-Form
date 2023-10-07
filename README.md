@@ -67,6 +67,27 @@ Following the integration of our MVC project with the Web API, the next signific
 
 To accomplish this, we'll add a new view or webform for each operation handled by the controller. These views serve as the user interface components that allow users to interact with the application seamlessly. Whether it's adding new customer information, deleting existing records, updating data, or retrieving comprehensive lists of customer details, these views provide an intuitive and user-friendly interface. All the Views code can be found in this repo with the name `Home`, and for the overall Layout go to `Shared`.
 
+## Demo of the Web Application
+After Following all the above instructions...the Basic Layout will look like this-
+
+https://github.com/Saket2701/-Customer-Information-Management-Form/assets/101319476/3318661f-280f-44ea-8759-c73ec4c893de
+
+Demo for Create and Delete Operations-
+
+https://github.com/Saket2701/-Customer-Information-Management-Form/assets/101319476/3a8b0f5e-e8b2-4c63-a73c-c04cfedc3326
+
+Demo for Read and Update Operations-
+
+https://github.com/Saket2701/-Customer-Information-Management-Form/assets/101319476/36a1fb0f-36ca-4b3b-b79f-9fdb5ce74239
+
+
+## Implementation Plan-
+![image](https://github.com/Saket2701/-Customer-Information-Management-Form/assets/101319476/7e6d7904-1843-4e08-9b12-69b267501ace)
+
+
+
+
+
 
 
 
